@@ -5,7 +5,7 @@ layout: post
 excerpt: Now you know what a VPN is, here's how you choose between them...
 ---
 
-So [you know what a VPN is]({% link _posts/2019-10-05-understanding-vpns.md %}), but there are so many options to choose from! Well before we dive into this, let's get one thing off the bat:
+So [you know what a VPN is]({% link blog/_posts/2019-10-05-understanding-vpns.md %}), but there are so many options to choose from! Well before we dive into this, let's get one thing off the bat:
 
 ## Avoid Free VPNs
 
