@@ -6,7 +6,7 @@ permalink: /blog/
 
 <div class="blog mt-5">
   <div class="row">
-  {% for post in site.posts %}
+  {% for post in site.category["blog"] %}
     {% include blog-card.html %}
   {% endfor %}
   </div>

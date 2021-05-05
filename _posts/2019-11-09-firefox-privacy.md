@@ -45,7 +45,7 @@ DNS (or the Domain Name System) is what your browser uses to turn domain names l
 
 Encrypted DNS takes many forms: DNS over HTTPS (DoH), DNS over TLS, DNSCrypt, etc., but they all accomplish the same thing. They keep your DNS queries private from your ISP, and they make sure they aren't tampered with in transit between your DNS provider. Fortunately, Firefox recently added native DoH support to the browser. On the **General** page of your preferences, scroll down to and open **Network Settings**. At the bottom of the window you will be able to select "Enable DNS over HTTPS" and choose a provider:
 
-![Screenshot of the Enable DNS over HTTPS box checked, with Cloudflare selected in the provider dropdown.](/assets/img/blog/firefox-privacy-1.png){:.img-fluid .w-75 .mx-auto .d-block}
+![Screenshot of the Enable DNS over HTTPS box checked, with Cloudflare selected in the provider dropdown.](/blog/assets/img/firefox-privacy-1.png){:.img-fluid .w-75 .mx-auto .d-block}
 
 Keep in mind that by using DoH you're sending all your queries to a single provider, probably Cloudflare unless you choose [another provider](https://www.privacytools.io/providers/dns/) that supports DNS over HTTPS. While it may add some privacy protection from your ISP, you're only shifting that trust to the DoH provider. Make sure that's something you want to do.
 
@@ -55,7 +55,7 @@ It should also be noted that even with DoH, your ISP will still be able to see w
 
 This is an easy one. In the Search tab, change your Default Search Engine to something other than Google.
 
-![Screenshot of the search engine preferences](/assets/img/blog/firefox-privacy-2.png){:.img-fluid .w-75 .mx-auto .d-block}
+![Screenshot of the search engine preferences](/blog/assets/img/firefox-privacy-2.png){:.img-fluid .w-75 .mx-auto .d-block}
 
 Out of the built-in options, DuckDuckGo is the most privacy respecting service, but there's a number of [search engines we would recommend](https://www.privacytools.io/providers/search-engines/) that can be easily installed as well.
 
@@ -63,11 +63,11 @@ Out of the built-in options, DuckDuckGo is the most privacy respecting service, 
 
 Now we'll delve into the biggest set of options for people like us, Firefox's Privacy & Security tab. First up is their Enhanced Tracking Protection. This set of filters is set to *Standard* by default, but we'll want to change it to *Strict* for more comprehensive coverage.
 
-![Screenshot of strict tracking protection enabled](/assets/img/blog/firefox-privacy-3.png){:.img-fluid .w-75 .mx-auto .d-block}
+![Screenshot of strict tracking protection enabled](/blog/assets/img/firefox-privacy-3.png){:.img-fluid .w-75 .mx-auto .d-block}
 
 In rare occasions, Strict browsing protections might cause some of the websites you visit to not function properly. But there's no need to worry! If you suspect the Strict browsing protection is breaking a website you visit frequently, you can disable it on a site by site basis with the shield icon in the address bar.
 
-![Screenshot of per-site settings for Firefox tracking protection](/assets/img/blog/firefox-privacy-4.png){:.img-fluid .w-75 .mx-auto .d-block}
+![Screenshot of per-site settings for Firefox tracking protection](/blog/assets/img/firefox-privacy-4.png){:.img-fluid .w-75 .mx-auto .d-block}
 
 Disabling Enhanced Tracking Protection will of course decrease your privacy on that site, so you will have consider whether that's something you are willing to compromise on, on a site-by-site basis.
 
@@ -77,13 +77,13 @@ Another benefit of Firefox's Enhanced Tracking Protection is that it can actuall
 
 When you use Firefox, Mozilla collects information about what you do, what kind of extensions you have installed, and various other aspects of your browser. While they claim to do this in a privacy-respecting way, sending as little data as possible is always preferred from a privacy standpoint, so we would go ahead and uncheck all the boxes under **Firefox Data Collection and Use** just to be safe.
 
-![Screenshot of Firefox data collection checkboxes](/assets/img/blog/firefox-privacy-5.png){:.img-fluid .w-75 .mx-auto .d-block}
+![Screenshot of Firefox data collection checkboxes](/blog/assets/img/firefox-privacy-5.png){:.img-fluid .w-75 .mx-auto .d-block}
 
 ### Clearing Cookies and Site Data
 
 This one is for more advanced users, so if you don't understand what this is doing you can skip this section. Firefox provides the option to delete all your cookies and site data every time Firefox is closed. Cookies and site data are little pieces of information sites store in your browser, and they have a myriad of uses. They are used for things like keeping you logged in and saving your website preferences, but they also can be used to track you across different websites. By deleting your cookies regularly, your browser will appear clean to websites, making you harder to track.
 
-![Screenshot of cookies and site data](/assets/img/blog/firefox-privacy-6.png){:.img-fluid .w-75 .mx-auto .d-block}
+![Screenshot of cookies and site data](/blog/assets/img/firefox-privacy-6.png){:.img-fluid .w-75 .mx-auto .d-block}
 
 This will likely log you out of websites quite often, so make sure that's an inconvenience you're willing to put up with for enhanced privacy.
 
