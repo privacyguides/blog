@@ -1,6 +1,6 @@
 ---
 title: '"Move Fast and Break Things"'
-image: 'move-fast-and-break-things.jpg'
+image: 'blog/2022/04/04/move-fast-and-break-things.jpg'
 created: "2022-04-04"
 ---
 Mark Zuckerberg does not look comfortable on stage. Yet, there he was proclaiming that “the future is private”. If someone has to tell you that they care about your privacy, they probably don’t.
