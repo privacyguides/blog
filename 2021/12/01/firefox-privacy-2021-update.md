@@ -1,5 +1,7 @@
 ---
 title: 'Firefox Privacy: 2021 Update'
+image: 'firefox-privacy-2021-update.png'
+created: "2021-12-01"
 ---
 A lot changed between 2019 and now, not least in regards to Firefox. Since our last post, Mozilla has [improved](https://blog.mozilla.org/en/products/firefox/latest-firefox-rolls-out-enhanced-tracking-protection-2-0-blocking-redirect-trackers-by-default/) privacy with [Enhanced Tracking Protection (ETP)](https://blog.mozilla.org/en/products/firefox/firefox-now-available-with-enhanced-tracking-protection-by-default/). Earlier this year Mozilla introduced [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) (Dynamic First Party Isolation dFPI). This was then further tightened with [Enhanced Cookie Clearing](https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/). We’re also looking very forward to [Site Isolation](https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/) (code named Fission) being enabled by default in the coming releases.
 

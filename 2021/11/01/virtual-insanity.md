@@ -1,5 +1,7 @@
 ---
 title: Virtual Insanity
+image: 'virtual-insanity.jpg'
+created: "2021-11-01"
 ---
 Not so long ago, the world was predicting the end for Facebook. Now it is no more. Gone from the face of the planet – never to be seen again. Except it isn’t.
 

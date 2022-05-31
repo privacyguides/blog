@@ -1,5 +1,6 @@
 ---
 title: Welcome to Privacy Guides
+created: "2021-09-14"
 ---
 We are excited to announce the launch of [Privacy Guides](https://www.privacyguides.org/) and [r/PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/), and welcome the privacy community to participate in our crowdsourced software recommendations and share tips and tricks for keeping your data safe online. Our goal is to be a central resource for privacy and security-related tips that are usable by anybody, and to carry on the trusted legacy of PrivacyTools.
 
