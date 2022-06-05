@@ -10,7 +10,7 @@ As we [announced](https://web.archive.org/web/20210729184422/https://blog.privac
 
 We chose the name Privacy Guides because it represents two things for us as an organization: An expansion beyond simple recommendation lists, and a goal of acting as the trusted guides to anyone newly learning about protecting their personal data.
 
-As a name, it moves us past recommendations of various tools and focuses us more on the bigger picture. We want to provide more _education_ — rather than _direction_ — surrounding privacy-related topics. You can see the very beginnings of this work in our new page on [threat modeling](https://www.privacyguides.org/threat-modeling), or our [VPN](https://www.privacyguides.org/vpn) and [Email Provider](https://www.privacyguides.org/email) recommendations, but this is just the start of what we eventually hope to accomplish.
+As a name, it moves us past recommendations of various tools and focuses us more on the bigger picture. We want to provide more _education_ — rather than _direction_ — surrounding privacy-related topics. You can see the very beginnings of this work in our new page on [threat modeling](https://www.privacyguides.org/basics/threat-modeling/), or our [VPN](https://www.privacyguides.org/vpn) and [Email Provider](https://www.privacyguides.org/email) recommendations, but this is just the start of what we eventually hope to accomplish.
 
 ## Website Development
 
