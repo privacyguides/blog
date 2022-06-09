@@ -80,7 +80,7 @@ This extension can search for local network and Bluetooth devices but is sandbox
 
 The DeviceDiscoveryExtension framework presents the list of discovered devices in the picker, and after a selection is made, the system enables communication with the selected device. No other permissions are needed.
 
-Protocol providers, if they wish to be compatible with this feature, will need to take steps on their own. App developers should contact their streaming protocol provider to implement a DeviceDiscoveryExtension.
+Protocol providers, if they wish to be compatible with this feature, will need to take steps on their own.
 
 ### Device name entitlement
 
@@ -89,6 +89,22 @@ If you’ve ever used AirDrop in a public place before, you’ve surely seen a n
 Before iOS 16, the [UIDevice](https://developer.apple.com/documentation/uikit/uidevice) API gave apps unfettered access to your user-assigned device name. Now, the [UIDevice.name](https://developer.apple.com/documentation/uikit/uidevice/1620015-name) API will return just the model of your device, such as iPhone 13, regardless of how the device name is customized.
 
 There are legitimate purposes on why an app would need to see your device name, like making it clear which device a document was last edited on. So in these cases, apps can request the entitlement to access your device name. As per the [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/), apps are not allowed to share your device name with third parties other than cloud-hosting service providers.
+
+### Rapid Security Response
+
+Rapid Security Response allows Mac devices to receive important security improvements in a more timely manner. Unlike a standard a standard software update, these patches can be applied automatically between normal updates and without a restart.
+
+![Rapid Securiy Response in System Settings](media/rapidSecurityResponse.jpg)
+
+### Accessory Security
+
+With macOS Ventura, when new USB and Thunderbolt accessories are connected to a Mac with Apple silicon, you will be required to give approval before the accessory can communicate with with the system.
+
+Accessory Security doesn’t apply to power adapters, standalone displays, or connections to an approved hub; devices can still charge if you choose Don’t Allow.
+
+By default, the system will Ask for new accessories. And, once a device is approved as safe, it can connect to a locked Mac for a maximum of three days before it needs to be approved again.
+
+![M2 MacBook Air with Magsafe connector](media/accessorySecurity.jpg)
 
 ### Gatekeeper improvements
 
@@ -154,6 +170,8 @@ While PHPicker was perviously introduced in iOS 14, it is now on the Mac with ma
 
 ### Sources
 
-- (WWDC22) [What’s new in privacy](https://developer.apple.com/videos/play/wwdc2022/10096/)
-- (WWDC22) [Meet passkeys](https://developer.apple.com/videos/play/wwdc2022/10092/)
-- (WWDC22) [Replace CAPTCHAs with Private Access Tokens](https://developer.apple.com/videos/play/wwdc2022/10077/)
+- [What’s new in privacy](https://developer.apple.com/videos/play/wwdc2022/10096/)
+- [Meet passkeys](https://developer.apple.com/videos/play/wwdc2022/10092/)
+- [Replace CAPTCHAs with Private Access Tokens](https://developer.apple.com/videos/play/wwdc2022/10077/)
+- [macOS 13 Ventura Beta Release Notes](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes)
+- [macOS Ventura Preview: All New Features](https://www.apple.com/macos/macos-ventura-preview/features/)
