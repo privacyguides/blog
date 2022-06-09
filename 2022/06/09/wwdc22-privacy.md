@@ -56,7 +56,7 @@ Quick Exit is available in all Safety Check flows and quickly lets people exit t
 
 ### Private Access Tokens
 
-Chances are, if you've signed up for a new account on a website, or tried to sign in with an existing account, you've encountered CAPTCHAs at some point. Sometimes, a CAPTCHA is just a button to press, but others can be a challenge to fill out. And while CAPTCHAs are typically implemented to prevent fraud, they often make it harder to access content.
+Chances are, if you've signed up for a new account on a website, or tried to sign in with an existing account, you've encountered CAPTCHAs at some point. Sometimes, a CAPTCHA is just a button to press, but others can be a challenge to fill out. And while CAPTCHAs are typically implemented to prevent fraud, they often make it harder for legitimate visitors to access content.
 
 CAPTCHAs can also pose a privacy risk. In order to determine if a client is trusted and can get an easier CAPTCHA, servers often rely on tracking or fingerprinting clients by using their IP address.
 
