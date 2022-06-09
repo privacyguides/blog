@@ -72,7 +72,7 @@ Private Access Tokens works by using technology being standardized in the IETF P
 
 Another tool to create a seamless experience while minimizing data access is media device discovery. Apps today use a wide range of streaming protocols, with custom discovery and communication logic.
 
-To stream media using one of those protocols before, apps needed permission to access the local network, and often Bluetooth. This permission is needed because knowledge of all devices is required to manage device selection but this provides access to more information than is necessary and poses a fingerprinting risk. Media device discovery lets an app stream to selected devices without having access to the local network device list or Bluetooth. Streaming devices appear right in the same picker as AirPlay, and apps only see the device picked to stream to. This works thanks to DeviceDiscovery extensions.
+To stream media using one of those protocols before, apps needed permission to access the local network, and often Bluetooth. This permission is needed because knowledge of all devices is required to manage device selection, however this provides access to more information than is necessary and poses a fingerprinting risk. Media device discovery lets an app stream to selected devices without having access to the local network device list or Bluetooth. Streaming devices appear right in the same picker as AirPlay, and apps only see the device picked to stream to. This works thanks to DeviceDiscovery extensions.
 
 ![Media device discovery and relevant extension and framework](media/mediaDeviceDiscovery.jpg)
 
