@@ -124,7 +124,7 @@ The new service management framework makes it easy for developers to launch reso
 
 ### Location attribution
 
-When apps use location, iOS displays an arrow in the status bar. In iOS 16, swiping down from the Control Center now indicates which app is using location.
+When apps use location, iOS displays an arrow in the status bar. In iOS 16, swiping down from the Control Center now additionally indicates which app is using location.
 
 ![Location attribution screenshot](media/locationAttribution.jpg)
 
