@@ -5,7 +5,7 @@ created: "2022-06-09"
 author: 'Lexi'
 template: overrides/blog.en.html
 ---
-Apple kicked off its global annual developer conference, WWDC, with a ton of new features and technologies. As with previous years, Apple has dropped a number of new security and privacy features. While some of these features made their way into the main keynote, many more were left out. These features were instead detailed in the various developer sessions hosted throughout the week.
+Apple kicked off its global annual developer conference, WWDC, with a ton of new features and technologies. As with previous years, Apple presented a number of new security and privacy features. While some of these features made their way into the main keynote, many more were left out. These features were instead detailed in the various developer sessions hosted throughout the week.
 
 ### Privacy Pillars
 
