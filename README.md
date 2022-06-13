@@ -10,7 +10,7 @@
   
 </div>
 
-## About
+---
 
 We aspire to publish the best articles about privacy on the net. From hot-takes to long-form essays, we are looking for stylish and well-written pieces.
 
