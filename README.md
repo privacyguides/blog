@@ -1,4 +1,4 @@
-# blog
+![privacy-guides-logo](https://user-images.githubusercontent.com/25013506/173338382-811d4d33-4369-44eb-b817-84efa4ab05ee.svg)
 
 We aspire to publish the best articles about privacy on the net. From hot-takes to long-form essays, we are looking for stylish and well-written pieces.
 
